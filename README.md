@@ -29,19 +29,19 @@ Y nuestro primer curso en moodle queda concluido
 # Cuestionario Mac OS
 ![mac](https://github.com/logangremor/MoodlePersonal/assets/151951917/908833f4-1cc7-41cb-aed4-5bce3c7f6ac6)
 
-¿Qué modelo de Mac?
+¿Qué modelo de Mac?<br>
 Mac Pro 2019
 
-¿Cuánta memoria RAM tiene?
+¿Cuánta memoria RAM tiene?<br>
 96 GB DDR4 a 2666Mhz
 
-¿Qué procesador tiene?
+¿Qué procesador tiene?<br>
 Intel Xeon W
 
-¿Cuántos núcleos tiene?
+¿Cuántos núcleos tiene?<br>
 8 nucleos
 
-¿Cuántos hilos de ejecución tiene?
+¿Cuántos hilos de ejecución tiene?<br>
 16 Hilos
 
 # Practica en MAC
