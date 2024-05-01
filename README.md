@@ -14,6 +14,7 @@ Verificar IP ip a
 
 Configurar moodle
 Ingresamos y hacemos login
+
 ![image](https://github.com/logangremor/MoodlePersonal/assets/151951917/b5441a8d-3548-4d4d-a28e-807cacc5f1e7)
 
 Creamos un nuevo curso
@@ -26,3 +27,21 @@ Y nuestro primer curso en moodle queda concluido
 ![image](https://github.com/logangremor/MoodlePersonal/assets/151951917/e32e5ef5-fa16-4394-81f6-1ea4625b758d)
 
 # Cuestionario Mac OS
+![mac](https://github.com/logangremor/MoodlePersonal/assets/151951917/908833f4-1cc7-41cb-aed4-5bce3c7f6ac6)
+
+¿Qué modelo de Mac?
+Mac Pro 2019
+
+¿Cuánta memoria RAM tiene?
+96 GB DDR4 a 2666Mhz
+
+¿Qué procesador tiene?
+Intel Xeon W
+
+¿Cuántos núcleos tiene?
+8 nucleos
+
+¿Cuántos hilos de ejecución tiene?
+16 Hilos
+
+# Practica en MAC
