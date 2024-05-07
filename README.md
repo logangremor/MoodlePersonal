@@ -45,3 +45,27 @@ Intel Xeon W
 16 Hilos
 
 # Practica en MAC
+
+primero creamos una carpeta con el nombre eq2<br>
+de ahi fuimos a la pagina de docker compose moodle para descargar la bade de datos<br>
+![imagen1](imagenmac1-1.jpeg) <br>
+<br><br>
+luego comprobamos que este funcionando y entramos a localhost<br>
+y posteriormente nos logueamos<br>
+usuario: user<br>
+contraseña: bitnami<br>
+![imagen2](imagenmac2-1.jpeg)<br>
+luego de loguearnos creamos el curso, que seria curso 1 devops
+![imagen3](imagenmac3.jpeg)<br>
+posteriormente creamos los usuario, laura, ayrton, rogelio y raul caceres<br>
+con raul caceres usamos el siguiente usuario y contraseña<br>
+usuario: raul.ca@merida.tecnm.mx<br>
+contraseña: “E5un53cr3t0!<br>
+![imagen4](imagenmac4.jpeg)<br>
+![imagen5](imagenmac5.jpeg)<br>
+![imagen6](imagenmac6.jpeg)<br>
+checamos que esten todos como alumnos y seleccionamos a un integrante como maestro<br>
+en este caso fue laura<br>
+checamos que efectivamente laura esta como maestro en el curso 1
+![imagen7](imagenmac7.jpeg)
+
