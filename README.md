@@ -67,5 +67,11 @@ contraseña: “E5un53cr3t0!<br>
 checamos que esten todos como alumnos y seleccionamos a un integrante como maestro<br>
 en este caso fue laura<br>
 checamos que efectivamente laura esta como maestro en el curso 1
-![imagen7](IMG_MAC/imagenmac7.jpeg)
+![imagen7](IMG_MAC/imagenmac7.jpeg)<br>
+
+CONCLUCION<br>
+<br>
+Rogelio: En esta actividad aprendimos a levantar Moodle en una computadora Mac, fue sencillo ya que, ya habiamos hecho la practica en una laptop, y los comandos ya eran conocidos asi como
+tambien ya habiamos hecho practicas de github y esta practica se hizo sencilla, fuera de eso lo dificil era el teclado de mac
+
 
